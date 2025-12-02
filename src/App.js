@@ -34,4 +34,6 @@ const App = () => {
   );
 }
 
+// Bonjour! Hello
+
 export default App;
